@@ -19,4 +19,4 @@ Alongside our active agency sprints, we actively engineer and scale our own inte
 *   **Component-First:** Everything is built to be modular and reusable.
 *   **Zero Bloat:** Strict sprint management, aggressive scope control, and zero corporate bureaucracy. 
 
-📫 **Contact:** [Your Studio Email] | 🌍 **Location:** Nairobi, Kenya
+📫 **Contact:** infralabs.ke@gmail.com | 🌍 **Location:** Nairobi, Kenya
